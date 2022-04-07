@@ -10,5 +10,6 @@
     <ItemGroup>
       <ProjectReference Include="..\ToH\ToH.csproj" />
     </ItemGroup>
+  <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
 
 </Project>
